@@ -1,5 +1,5 @@
 # Chirality-driven-topological-electronic-structure-of-DNA-like-materials
-Matlab codes to calculate the conductance, spin and orbital polarization of chiral molecules, for the manuscript https://arxiv.org/abs/2008.08881v2
+Matlab codes to calculate the conductance, spin and orbital polarization of chiral molecules, for the manuscript : [Nature Materials 20, 638 (2021)](https://www.nature.com/articles/s41563-021-00924-5)
 Author: Yizhou Liu   (  yizhou.liu@weizmann.ac.il )                 
          (Weizmann Institute of Science)                             
  This MatLab script calculates the chirality induced spin/orbital/   
@@ -12,5 +12,7 @@ Author: Yizhou Liu   (  yizhou.liu@weizmann.ac.il )
  Y. Liu, J. Xiao, J. Koo, and B. Yan,                                
  Chirality driven topological electronic structure of DNA-like materials
  arXiv:2008.08881, 2020.                                            
-                                                    
+Journal reference:	Nature Materials 20, 638 (2021)
+Related DOI: https://doi.org/10.1038/s41563-021-00924-5
+                                             
 https://github.com/site/terms
